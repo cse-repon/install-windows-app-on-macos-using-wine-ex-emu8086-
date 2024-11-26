@@ -19,7 +19,3 @@ wine wine-setup.exe
 4. Open emu8086 or other windows exe program (run this command from the exe directory or mention the program path)
 
 WINEPREFIX="/Users/gaminglab/.wine" wine c:\\\\emu8086\\\\emu8086.exe 
-
-5. Emu8086 license key
-
-[source: https://gist.github.com/joao-neves95/8cb68b4904226efc28f5f1fb2ce65f33]
